@@ -1,4 +1,6 @@
 # COVID-19 Detection using Chest X-Ray Images
+[Download trained model](https://drive.google.com/file/d/1EcEGBdNsbolGXls2tdEJyv6UpEAEGhze/view?usp=sharing)
+
 ![covid-predictor](https://github.com/user-attachments/assets/ba841fb5-f1c8-4030-9352-660c186c7ec9)
 
 This Jupyter notebook demonstrates the process of predicting the possibility of COVID-19 in a patient by training a machine learning model. The dataset used for this project is a collection of chest X-ray images from the University of Montreal, available on Kaggle.
